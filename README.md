@@ -1,3 +1,3 @@
 # Todos
-Created with CodeSandbox
+Created with CodeSandbox. 
 A to-do list
